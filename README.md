@@ -1,3 +1,5 @@
+![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fb10.beauty%2Fheaders-for-tumblr-gif&psig=AOvVaw0KSvEhOag56OvfNSUb-Jjb&ust=1692785203467000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjQx7eC8IADFQAAAAAdAAAAABA_)
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=300&size=40&pause=1000&color=CD456B&vCenter=true&width=435&lines=Hey%2C+I'm+Nekane+%3D)" alt="Typing SVG" /></a><br>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/landscapes/nmontiel?1337Badge=off&UM6P=off" alt="nmontiel's 42 stats" /></a>
   
