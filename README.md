@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there,+I'm+using+Github)](https://git.io/typing-svg)
+
 <body style="background-image: light:blue">
   <font face="courier">
     <p align="center">┌───────────────── ⋆⋅☆⋅⋆ ─────────────────┐</p>
