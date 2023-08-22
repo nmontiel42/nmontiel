@@ -4,7 +4,7 @@
 
 ![Banner](https://media.tenor.com/A8gfYs3xGc0AAAAC/barbie-fairytopia-bibble.gif)
 
-## My progress in 42 🚀 
+## 42 Projects 🚀 
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus.webp"><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus.webp"/>
 <ul>
   <li><a href="https://github.com/nmontiel42/libft">LIBFT</a></li>
