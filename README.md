@@ -7,7 +7,7 @@
 ## My progress in 42 🚀 
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus.webp"><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus.webp"/>
 <ul>
-  <li><a style="color:pink;" href="https://github.com/nmontiel42/libft">LIBFT</a></li>
+  <li><a style="color:eq;" href="https://github.com/nmontiel42/libft">LIBFT</a></li>
   
   <li><a style="color:pink;" href="https://github.com/nmontiel42/Printf">FT_PRINTF</a></li>
   
