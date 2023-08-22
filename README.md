@@ -1,4 +1,5 @@
 <body>  
+  <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=300&size=45&pause=1000&color=BB82B6&center=true&width=435&lines=Hey%2C+I'm+Nekane+%3D)" alt="Typing SVG" /></a></div>
   <div align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/landscapes/nmontiel?1337Badge=off&UM6P=off" alt="nmontiel's 42 stats" /></a></div>
   <font face="courier">
     <p align="center">───────────────── ⋆⋅☆⋅⋆ ─────────────────</p>
