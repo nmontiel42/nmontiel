@@ -9,11 +9,11 @@
 <ul>
   <li><a style="color:lightpink;" href="https://github.com/nmontiel42/libft">LIBFT</a></li>
   
-  <li><a style="color:lightpink;" href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgxuihg7003608l92rk5ua9w/project/3085062" alt="nmontiel's 42 ft_printf Score" /></a></h3></li>
+  <li><a style="color:lightpink;" href="https://github.com/nmontiel42/Printf">FT_PRINTF</a></li>
   
-  <li><h3><b><u>GET_NEXT_LINE: </b></u><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgxuihg7003608l92rk5ua9w/project/3112999" alt="nmontiel's 42 get_next_line Score" /></a></h3></li>
+  <li><a style="color:lightpink;" href="https://github.com/nmontiel42/get_next_line">GET_NEXT_LINE</a></li>
   
-  <li><h3><b><u>BORN2BEROOT: </b></u><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgxuihg7003608l92rk5ua9w/project/3113001" alt="nmontiel's 42 Born2beroot Score" /></a></h3><br></li>
+  <li><a style="color:lightpink;">BORN2BEROOT</a>
 
 ## My profile and stats 🥥
 
