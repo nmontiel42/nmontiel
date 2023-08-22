@@ -7,12 +7,12 @@
 ## My progress in 42 🚀 
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus.webp"/>
 
-<h3><b><u>LIBFT</u></b> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgxuihg7003608l92rk5ua9w/project/3067093" alt="nmontiel's 42 Libft Score" /></a></h3>
+<h3><b><u>LIBFT: </u></b> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgxuihg7003608l92rk5ua9w/project/3067093" alt="nmontiel's 42 Libft Score" /></a></h3>
   
-<h3><b><u>FT_PRINTF</b></u><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgxuihg7003608l92rk5ua9w/project/3085062" alt="nmontiel's 42 ft_printf Score" /></a></h3>
+<h3><b><u>FT_PRINTF: </b></u><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgxuihg7003608l92rk5ua9w/project/3085062" alt="nmontiel's 42 ft_printf Score" /></a></h3>
   
-<h3><b><u>GET_NEXT_LINE</b></u><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgxuihg7003608l92rk5ua9w/project/3112999" alt="nmontiel's 42 get_next_line Score" /></a></h3>
+<h3><b><u>GET_NEXT_LINE: </b></u><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgxuihg7003608l92rk5ua9w/project/3112999" alt="nmontiel's 42 get_next_line Score" /></a></h3>
   
-<h3><b><u>BORN2BEROOT</b></u><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgxuihg7003608l92rk5ua9w/project/3113001" alt="nmontiel's 42 Born2beroot Score" /></a></h3>
+<h3><b><u>BORN2BEROOT: </b></u><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgxuihg7003608l92rk5ua9w/project/3113001" alt="nmontiel's 42 Born2beroot Score" /></a></h3>
   
 <div align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/nmontiel?1337Badge=off&UM6P=off" alt="nmontiel's 42 stats" /></a></div>
