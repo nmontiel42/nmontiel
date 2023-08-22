@@ -5,7 +5,7 @@
 ![Banner](https://media.tenor.com/A8gfYs3xGc0AAAAC/barbie-fairytopia-bibble.gif)
 
 ## My progress in 42 🚀 
-<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus.webp" href:"https://github.com/nmontiel42/libft"><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus.webp"/>
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus.webp"><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus.webp"/>
 
 <h3><b><u>LIBFT: </u></b> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgxuihg7003608l92rk5ua9w/project/3067093" alt="nmontiel's 42 Libft Score" /></a></h3>
   
