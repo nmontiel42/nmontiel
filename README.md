@@ -15,6 +15,6 @@
   
 <h3><b><u>BORN2BEROOT: </b></u><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgxuihg7003608l92rk5ua9w/project/3113001" alt="nmontiel's 42 Born2beroot Score" /></a></h3><br>
 
-## My profile 🥥
+## My profile and stats 🥥
 
-<div align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/nmontiel?1337Badge=off&UM6P=off" alt="nmontiel's 42 stats" /></a></div>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/nmontiel?1337Badge=off&UM6P=off" alt="nmontiel's 42 stats" /><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgxuihg7003608l92rk5ua9w/stats?cursusId=21&coalitionId=275" alt="nmontiel's 42 stats"></a>
