@@ -14,7 +14,12 @@
   <li><a href="https://github.com/nmontiel42/get_next_line">GET_NEXT_LINE</a></li>
   
   <li><a>BORN2BEROOT</a>
-  </ul>
+</ul>
+
+## Exams 🎓
+<ul>
+  <li><a href="https://github.com/nmontiel42/exam_rank_02">EXAM_RANK_02</li></a>
+</ul>
 
 ## My profile and stats 🥥
 
