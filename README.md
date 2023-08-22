@@ -1,4 +1,16 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=300&size=35&pause=1000&color=EB8CCD&width=435&lines=Hey%2C+I'm+Nekane+%3D)" alt="Typing SVG" /></a><br>
+<p> ┊　˚✰˚　┊　　┊　　┊
+
+┊　　┊　˚✰˚　┊　　★
+
+┊　　┊　　✬        ˚✰˚
+
+┊　˚✰˚　★
+
+✬          ✬            ★
+
+      ★      ˚✰˚
+</p>
 
 ![Banner](https://media.tenor.com/bjaE0fkuEI0AAAAC/barbie-fairytopia.gif)
 
