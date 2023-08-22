@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there,+I'm+using+Github)](https://git.io/typing-svg)
-
-<body style="background-image: light:blue">
+<body>  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=300&size=40&pause=1000&color=B893AA&background=FF272700&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Nekane+%3D)" alt="Typing SVG" /></a>
   <font face="courier">
     <p align="center">┌───────────────── ⋆⋅☆⋅⋆ ─────────────────┐</p>
     <div align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgxuihg7003608l92rk5ua9w/stats?cursusId=21&coalitionId=275" alt="nmontiel's 42 stats" /></a></div></font>
