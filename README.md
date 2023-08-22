@@ -1,4 +1,4 @@
-<body>
+<body style="background-image: light:blue">
   <font face="courier">
     <p align="center">┌───────────────── ⋆⋅☆⋅⋆ ─────────────────┐</p>
     <div align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgxuihg7003608l92rk5ua9w/stats?cursusId=21&coalitionId=275" alt="nmontiel's 42 stats" /></a></div></font>
