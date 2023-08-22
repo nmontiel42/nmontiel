@@ -9,7 +9,6 @@
 
 ✬          ✬            ★
 
-      ★      ˚✰˚
 </p>
 
 ![Banner](https://media.tenor.com/bjaE0fkuEI0AAAAC/barbie-fairytopia.gif)
