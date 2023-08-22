@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=300&size=40&pause=1000&color=CD456B&vCenter=true&width=435&lines=Hey%2C+I'm+Nekane+%3D)" alt="Typing SVG" /></a><br>
 
-![Banner](https://media.tenor.com/dSe-jZmGOCAAAAAC/bibble-fairytopia.gif)
+![Banner](https://media.tenor.com/bjaE0fkuEI0AAAAC/barbie-fairytopia.gif)
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/landscapes/nmontiel?1337Badge=off&UM6P=off" alt="nmontiel's 42 stats" /></a>
   
