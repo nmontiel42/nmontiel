@@ -18,20 +18,24 @@
 
 ## 42 Progress 🚀  
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus.webp"><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus.webp"/>
-<h2><b>42 Project</b></h2>
-<p>These are the projects that I have completed and corrected in 42:</p>
 <ul>
-  <li><a href="https://github.com/nmontiel42/libft">LIBFT</a></li>
+  <li><<b>42 Project</b>/li>
+  <p>These are the projects that I have completed and corrected in 42:</p>
+  <ul>
+    <li><a href="https://github.com/nmontiel42/libft">LIBFT</a></li>
   
-  <li><a href="https://github.com/nmontiel42/Printf">FT_PRINTF</a></li>
+    <li><a href="https://github.com/nmontiel42/Printf">FT_PRINTF</a></li>
   
-  <li><a href="https://github.com/nmontiel42/get_next_line">GET_NEXT_LINE</a></li>
+    <li><a href="https://github.com/nmontiel42/get_next_line">GET_NEXT_LINE</a></li>
   
-  <li><a>BORN2BEROOT</a>
+    <li><a>BORN2BEROOT</a>
+  </ul>
 </ul>
-<h2><b>42 Exams 🎓</b></h2>
 <ul>
-  <li><a href="https://github.com/nmontiel42/exam_rank_02">EXAM_RANK_02</li></a>
+  <li><b>42 Exams 🎓</b></li>
+  <ul>
+    <li><a href="https://github.com/nmontiel42/exam_rank_02">EXAM_RANK_02</li></a>
+  </ul>
 </ul>
 
 ## Contact me 📥
