@@ -11,7 +11,7 @@
 
 ## Educación
 <ul>
-  <li><b><h2>Estudiante en 42 Málaga</b></li></h2>
+  <li><b>Estudiante en 42 Málaga</b></li>
   <p>Abril 2023 - Actualidad</p>
   
 </ul>
