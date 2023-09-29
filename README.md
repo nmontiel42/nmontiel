@@ -29,7 +29,7 @@
     <li><a href="https://github.com/nmontiel42/get_next_line">GET_NEXT_LINE</a></li>
     <p>El objetivo de este proyecto es simple: programar una función que devuelva
 una línea leída de un file descriptor.</p>
-    <li><a>BORN2BEROOT</a>
+    <li><a>BORN2BEROOT</a></li>
     <p> Este documento es un ejercicio de administración de sistemas.</p>
   </ul>
 </ul>
