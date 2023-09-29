@@ -1,12 +1,12 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier&weight=100&size=37&pause=1000&color=000000&width=435&lines=Hello+Everyone+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier&weight=100&size=37&pause=1000&color=000000&width=435&lines=++++++++++++++++++++Hello+Everyone+%3A)" alt="Typing SVG" /></a>
 
 ![Banner](https://64.media.tumblr.com/d0e0ba566837303040d948173b88abc6/af892589e3c0f22b-ec/s500x750/bc9028176fd0cbb851e9cdc4518a50a20ad2240d.gif)
 
 ## About me 💡
 
-<h4>I'm Nekane 🤝</h4>
+<h4>Hello! I'm Nekane 🤝</h4>
 
-<p>Hello! I'm Nekane. Currently, I am immersed in the world of development in 42 Málaga, where I am mainly learning programming in C and I hope to be able to develop my logical-mathematical skills to be able to apply them in my life as a programmer.</p>
+<p>Currently, I am immersed in the world of development in 42 Málaga, where I am mainly learning programming in C and I hope to be able to develop my logical-mathematical skills to be able to apply them in my life as a programmer.</p>
 <p> Although my training is based on C, I have a special interest in HTML, CSS and Java, languages ​​that I would like to be able to learn and enjoy in the near future to be able to give free rein to my creativity</p>
 
 ## Education 📚
