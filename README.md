@@ -1,5 +1,3 @@
-## 🌸
-
 <div align0"center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=300&size=35&pause=1000&color=6BCACF&width=435&lines=Hey%2C+I'm+Nekane+%3D)" alt="Typing SVG" /></a><br></div>
 
 ![Banner](https://64.media.tumblr.com/d0e0ba566837303040d948173b88abc6/af892589e3c0f22b-ec/s500x750/bc9028176fd0cbb851e9cdc4518a50a20ad2240d.gif)
@@ -19,8 +17,8 @@
 ## 42 Progress 🚀  
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus.webp"><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus.webp"/>
 <ul>
+  <p>These are the projects I have done and corrected in 42 and the exams I have been doing:</p>
   <li><b>42 Project</b></li>
-  <p>These are the projects that I have completed and corrected in 42:</p>
   <ul>
     <li><a href="https://github.com/nmontiel42/libft">LIBFT</a></li>
     <li><a href="https://github.com/nmontiel42/Printf">FT_PRINTF</a></li>
