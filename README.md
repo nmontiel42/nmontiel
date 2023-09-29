@@ -23,9 +23,14 @@
   <li><b>42 Projects 💻</b></li>
   <ul>
     <li><a href="https://github.com/nmontiel42/libft">LIBFT</a></li>
+    <p>Este proyecto consiste en programar una librería en C.</p>
     <li><a href="https://github.com/nmontiel42/Printf">FT_PRINTF</a></li>
+    <p>El objetivo de este proyecto es bastante sencillo. Deberás reprogramar printf().</p>
     <li><a href="https://github.com/nmontiel42/get_next_line">GET_NEXT_LINE</a></li>
+    <p>El objetivo de este proyecto es simple: programar una función que devuelva
+una línea leída de un file descriptor.</p>
     <li><a>BORN2BEROOT</a>
+    <p> Este documento es un ejercicio de administración de sistemas.</p>
   </ul>
 </ul>
 <ul>
