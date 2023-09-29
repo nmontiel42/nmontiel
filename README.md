@@ -2,7 +2,7 @@
 
 <div align0"center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=300&size=35&pause=1000&color=6BCACF&width=435&lines=Hey%2C+I'm+Nekane+%3D)" alt="Typing SVG" /></a><br></div>
 
-![Banner](https://media4.giphy.com/headers/dhunten/0DvIY8fAjBSg.gif)
+![Banner](https://64.media.tumblr.com/d0e0ba566837303040d948173b88abc6/af892589e3c0f22b-ec/s500x750/bc9028176fd0cbb851e9cdc4518a50a20ad2240d.gif)
 
 ## About me 💡
 <p>Hello! I'm Nekane. Currently, I am immersed in the world of development in 42 Málaga, where I am mainly learning programming in C and I hope to be able to develop my logical-mathematical skills to be able to apply them in my life as a programmer.</p>
