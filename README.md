@@ -2,7 +2,7 @@
 
 <div align0"center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=300&size=35&pause=1000&color=6BCACF&width=435&lines=Hey%2C+I'm+Nekane+%3D)" alt="Typing SVG" /></a><br></div>
 
-![Banner](https://media.tenor.com/A8gfYs3xGc0AAAAC/barbie-fairytopia-bibble.gif)
+![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fbanner&psig=AOvVaw2W1iiibfBG7UJwE38grZQS&ust=1696077679349000&source=images&cd=vfe&opi=89978449&ved=0CBIQjhxqFwoTCKiO9O7rz4EDFQAAAAAdAAAAABAJ)
 
 ## About me 💡
 <p>Hello! I'm Nekane. Currently, I am immersed in the world of development in 42 Málaga, where I am mainly learning programming in C and I hope to be able to develop my logical-mathematical skills to be able to apply them in my life as a programmer.</p>
