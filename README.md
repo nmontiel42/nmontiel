@@ -37,8 +37,6 @@
 <ul>
   <li>Email:<a href="mailto:montielarce9@gmail.com" target="_blank"> montielarce9@gmail.com</a></li>
   <li>42 Intra:<a href="https://profile.intra.42.fr/users/nmontiel" target="_blank"> nmontiel</a></li>
-  <a href="https://www.ejemplo.com" target="_blank">Enlace a Ejemplo</a>
-
 </ul>
 
 ## My profile and stats 🥥
