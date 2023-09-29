@@ -12,8 +12,7 @@
 ## Educación
 <ul>
   <li><b>Estudiante en 42 Málaga</b></li>
-  <p>Abril 2023 - Actualidad</p>
-  
+  <p>Abril 2023 - Actualidad</p> 
 </ul>
 
 ## 42 Projects 🚀  
@@ -32,6 +31,14 @@
 <ul>
   <li><a href="https://github.com/nmontiel42/exam_rank_02">EXAM_RANK_02</li></a>
 </ul>
+
+## Contacto
+<ul>
+  <li>Correo Electronico:<a href="montielarce9@gmail.com"
+  </li>
+Correo Electrónico: [Tu dirección de correo electrónico]
+LinkedIn: [Tu perfil de LinkedIn]
+42 Intra: [Tu nombre de usuario en el Intra de 42 Málaga]
 
 ## My profile and stats 🥥
 
