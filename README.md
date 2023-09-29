@@ -12,7 +12,9 @@
 ## Educación
 <ul>
   <li><b>Estudiante en 42 Málaga</b></li>
-  <p>Abril 2023 - Actualidad</p> 
+  <p>Abril 2023 - Actualidad</p><br/>
+  <li><b>Estudios Secundarios (Bachillerato)</b></li>
+  <p>Septiembre 2016 - Junio 2022</p>
 </ul>
 
 ## 42 Projects 🚀  
