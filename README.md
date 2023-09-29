@@ -17,8 +17,7 @@
 ## 42 Progress 🚀  
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus.webp"><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus.webp"/>
 <ul>
-  <p>These are the projects I have done and corrected in 42 and the exams I have been doing:</p>
-  <li><b>42 Project</b></li>
+  <li><b>42 Projects 💻</b></li>
   <ul>
     <li><a href="https://github.com/nmontiel42/libft">LIBFT</a></li>
     <li><a href="https://github.com/nmontiel42/Printf">FT_PRINTF</a></li>
