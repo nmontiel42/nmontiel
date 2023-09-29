@@ -23,11 +23,8 @@
   <p>These are the projects that I have completed and corrected in 42:</p>
   <ul>
     <li><a href="https://github.com/nmontiel42/libft">LIBFT</a></li>
-  
     <li><a href="https://github.com/nmontiel42/Printf">FT_PRINTF</a></li>
-  
     <li><a href="https://github.com/nmontiel42/get_next_line">GET_NEXT_LINE</a></li>
-  
     <li><a>BORN2BEROOT</a>
   </ul>
 </ul>
