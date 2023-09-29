@@ -34,12 +34,9 @@
 
 ## Contacto
 <ul>
-  <li>Correo Electronico:<a href="montielarce9@gmail.com"
-  </li>
-Correo Electrónico: [Tu dirección de correo electrónico]
-LinkedIn: [Tu perfil de LinkedIn]
-42 Intra: [Tu nombre de usuario en el Intra de 42 Málaga]
-
+  <li>Correo Electronico:<a href="mailto:montielarce9@gmail.com">montielarce9@gmail.com</a></li>
+  <li>42 Intra:<a href="https://profile.intra.42.fr/users/nmontiel">nmontiel</a></li>
+  
 ## My profile and stats 🥥
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/nmontiel?1337Badge=off&UM6P=off" alt="nmontiel's 42 stats"></a>
