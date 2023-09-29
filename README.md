@@ -4,17 +4,16 @@
 
 ![Banner](https://media.tenor.com/A8gfYs3xGc0AAAAC/barbie-fairytopia-bibble.gif)
 
-## Sobre mí
+## About me 💡
+<p>Hello! I'm Nekane. Currently, I am immersed in the world of development in 42 Málaga, where I am mainly learning programming in C and I hope to be able to develop my logical-mathematical skills to be able to apply them in my life as a programmer.</p>
+<p> Although my training is based on C, I have a special interest in HTML, CSS and Java, languages ​​that I would like to be able to learn and enjoy in the near future to be able to give free rein to my creativity</p>
 
-<p>¡Hola! Soy Nekane. Actualmente, estoy inmersa en el mundo del desarrollo en 42 Málaga, donde principalmente estoy aprendiendo programación en C y espero poder desarrollar mis habilidades logico matemáticas para poder aplicarlas en mi vida como programadora.</p>
-<p> A pesar de que mi formación se esta basando en C, tengo especial interés en HTML, CSS y Java, lenguajes que me gustaría poder aprender y disfrutar en un futuro cercano para poder dar rienda suelta a mi creatividad</p>
-
-## Educación
+## Education 📚
 <ul>
-  <li><b>Estudiante en 42 Málaga</b></li>
-  <p>Abril 2023 - Actualidad</p><br/>
-  <li><b>Estudios Secundarios (Bachillerato)</b></li>
-  <p>Septiembre 2016 - Junio 2022</p>
+  <li><b>Student at 42 Málaga</b></li>
+  <p>April 2023 - Present</p><br/>
+  <li><b>Secondary Studies (Bachillerato)</b></li>
+  <p>September 2016 - June 2022</p>
 </ul>
 
 ## 42 Projects 🚀  
@@ -29,16 +28,17 @@
   <li><a>BORN2BEROOT</a>
 </ul>
 
-## Exams 🎓
+## 42 Exams 🎓
 <ul>
   <li><a href="https://github.com/nmontiel42/exam_rank_02">EXAM_RANK_02</li></a>
 </ul>
 
-## Contacto
+## Contact me 📥
 <ul>
-  <li>Correo Electronico:<a href="mailto:montielarce9@gmail.com">montielarce9@gmail.com</a></li>
+  <li>Email:<a href="mailto:montielarce9@gmail.com">montielarce9@gmail.com</a></li>
   <li>42 Intra:<a href="https://profile.intra.42.fr/users/nmontiel">nmontiel</a></li>
-  
+</ul>
+
 ## My profile and stats 🥥
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/nmontiel?1337Badge=off&UM6P=off" alt="nmontiel's 42 stats"></a>
