@@ -11,7 +11,9 @@
 
 ## Educación
 <ul>
-  <li><b>Estudiante en 42 Málaga</b></li></ul><p>Abril 2023 - Actualidad</p>
+  <li><b><h2>Estudiante en 42 Málaga</b></li></h2>
+  <p>Abril 2023 - Actualidad</p>
+  
 </ul>
 
 ## 42 Projects 🚀  
