@@ -19,7 +19,7 @@
 </ul>
 
 ## 42 Progress 🚀  
-<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus.webp"><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus.webp"/>
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus.webp"><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/so_long.webp"/>
 <ul>
   <li><b>42 Projects 💻</b></li>
   <ul>
@@ -32,6 +32,9 @@
 una línea leída de un file descriptor.</p>
     <li><a>BORN2BEROOT</a></li>
     <p> Este documento es un ejercicio de administración de sistemas.</p>
+    <li><a href="https://github.com/nmontiel42/so_long">SO_LONG</a></li>
+    <p>Este proyecto es un pequeño juego en 2D. Está diseñado para hacerte
+trabajar con texturas y sprites y algunos otros elementos básicos de jugabilidad.</p>
   </ul>
 </ul>
 <ul>
