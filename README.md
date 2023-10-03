@@ -24,17 +24,17 @@
   <li><b>42 Projects 💻</b></li>
   <ul>
     <li><a href="https://github.com/nmontiel42/libft">LIBFT</a></li>
-    <p>Este proyecto consiste en programar una librería en C.</p>
+    <p>This project consists of programming a library in C.</p>
     <li><a href="https://github.com/nmontiel42/Printf">FT_PRINTF</a></li>
-    <p>El objetivo de este proyecto es bastante sencillo. Deberás reprogramar printf().</p>
+    <p>The goal of this project is quite simple. You will have to reprogram printf().</p>
     <li><a href="https://github.com/nmontiel42/get_next_line">GET_NEXT_LINE</a></li>
-    <p>El objetivo de este proyecto es simple: programar una función que devuelva
-una línea leída de un file descriptor.</p>
+    <p>The goal of this project is simple: program a function that returns
+a line read from a file descriptor.</p>
     <li><a>BORN2BEROOT</a></li>
-    <p> Este documento es un ejercicio de administración de sistemas.</p>
+    <p> This document is a systems administration exercise.</p>
     <li><a href="https://github.com/nmontiel42/so_long">SO_LONG</a></li>
-    <p>Este proyecto es un pequeño juego en 2D. Está diseñado para hacerte
-trabajar con texturas y sprites y algunos otros elementos básicos de jugabilidad.</p>
+    <p>This project is a small 2D game. It is designed to make you
+working with textures and sprites and some other basic gameplay elements.</p>
   </ul>
 </ul>
 <ul>
