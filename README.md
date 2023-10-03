@@ -14,8 +14,6 @@
 <ul>
   <li><b>Student at 42 Málaga</b></li>
   <p>April 2023 - Present</p><br/>
-  <li><b>Secondary Studies (Bachillerato)</b></li>
-  <p>September 2016 - June 2022</p>
 </ul>
 
 ## 42 Progress 🚀  
