@@ -33,6 +33,8 @@ a line read from a file descriptor.</p>
     <li><a href="https://github.com/nmontiel42/so_long">SO_LONG</a></li>
     <p>This project is a small 2D game. It is designed to make you
 working with textures and sprites and some other basic gameplay elements.</p>
+    <li><a href="https://github.com/nmontiel42/push_swap">PUSH_SWAP</a></li>
+    <p>This project involves arranging data in a stack, with a limited set of instructions in the smallest number of moves. To make this possible, you will have to manipulate several sorting algorithms and choose the most appropriate solution for optimal sorting.</p>
   </ul>
 </ul>
 <ul>
