@@ -18,6 +18,7 @@
 
 ## 42 Progress 🚀  
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp"><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus_max.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus_max.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/so_long.webp"/> <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap_bonus_max.webp"/>
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/pipex_bonus_max.webp"/>
 <ul>
   <li><b>42 Projects 💻</b></li>
   <ul>
@@ -35,6 +36,9 @@ a line read from a file descriptor.</p>
 working with textures and sprites and some other basic gameplay elements.</p>
     <li><a href="https://github.com/nmontiel42/push_swap">PUSH_SWAP</a></li>
     <p>This project involves arranging data in a stack, with a limited set of instructions in the smallest number of moves. To make this possible, you will have to manipulate several sorting algorithms and choose the most appropriate solution for optimal sorting.</p>
+    <li><a href="https://github.com/nmontiel42/pipex">PIPEX</li></a>
+    <p>This project will allow you to discover, by using it in your program, the
+operation of a UNIX mechanism that you already know.</p>
   </ul>
 </ul>
 <ul>
