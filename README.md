@@ -17,7 +17,8 @@
 </ul>
 
 ## 42 Progress 🚀  
-<a href="https://github.com/nmontiel42/libft"><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp" href="https://github.com/nmontiel42/libft"><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus_max.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus_max.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/so_long.webp"/> <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap_bonus_max.webp"/>
+<a href="https://github.com/nmontiel42/libft"><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp"> </a>
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus_max.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus_max.webp"/><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/so_long.webp"/> <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap_bonus_max.webp"/>
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/pipex_bonus_max.webp"/>
 <ul>
   <li><b>42 Projects 💻</b></li>
