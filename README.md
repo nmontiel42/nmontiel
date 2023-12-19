@@ -29,6 +29,8 @@
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap_bonus_max.webp"/></a>
 <a href="https://github.com/nmontiel42/pipex">
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/pipex_bonus_max.webp"/></a>
+<a href="https://github.com/nmontiel42/philosophers">
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/philosophers.webp"/></a>
 <ul>
   <li><b>42 Projects 💻</b></li>
   <ul>
@@ -49,6 +51,8 @@ working with textures and sprites and some other basic gameplay elements.</p>
     <li><a href="https://github.com/nmontiel42/pipex">PIPEX</li></a>
     <p>This project will allow you to discover, by using it in your program, the
 operation of a UNIX mechanism that you already know.</p>
+    <li><a href="https://github.com/nmontiel42/philosophers">PHILOSOPHERS</li></a>
+    <p>In this project, you will learn the basic principles of spinning a process. You will learn how to create threads and discover mutexes.</p>
   </ul>
 </ul>
 <ul>
