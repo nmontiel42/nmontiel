@@ -31,6 +31,8 @@
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/pipex_bonus_max.webp"/></a>
 <a href="https://github.com/nmontiel42/philosophers">
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/philosophers.webp"/></a>
+<a href="https://github.com/nmontiel42/minishell">
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell.webp"/></a>
 <ul>
   <li><b>42 Projects 💻</b></li>
   <ul>
@@ -53,6 +55,9 @@ working with textures and sprites and some other basic gameplay elements.</p>
 operation of a UNIX mechanism that you already know.</p>
     <li><a href="https://github.com/nmontiel42/philosophers">PHILOSOPHERS</li></a>
     <p>In this project, you will learn the basic principles of spinning a process. You will learn how to create threads and discover mutexes.</p>
+    <li><a href="https://github.com/nmontiel42/minishell">MINISHELL</li></a>
+    <p>The goal of this project is for you to create a simple shell. Yes, your own
+little bash. You will learn a lot about processes and file descriptors.</p>
   </ul>
 </ul>
 <ul>
