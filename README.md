@@ -33,6 +33,8 @@
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/philosophers.webp"/></a>
 <a href="https://github.com/nmontiel42/minishell">
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell.webp"/></a>
+<a href="https://github.com/nmontiel42/NetPractice">
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/netpractice.webp"/></a>
 <ul>
   <li><b>42 Projects 💻</b></li>
   <ul>
@@ -58,6 +60,8 @@ operation of a UNIX mechanism that you already know.</p>
     <li><a href="https://github.com/nmontiel42/minishell">MINISHELL</li></a>
     <p>The goal of this project is for you to create a simple shell. Yes, your own
 little bash. You will learn a lot about processes and file descriptors.</p>
+    <li><a href="https://github.com/nmontiel42/NetPractice">NETPRACTICE</li></a>
+    <p>NetPractice is a general practical exercise to help you discover networking.</p>
   </ul>
 </ul>
 <ul>
