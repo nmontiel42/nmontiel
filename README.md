@@ -72,7 +72,7 @@ little bash. You will learn a lot about processes and file descriptors.</p>
     <li><a href="https://github.com/nmontiel42/CPP">CPP MODULES</li></a>
     <p>This repository includes all the exercises from C++ modules 0-9.</p>
     <ul>
-      <li><a href="https://github.com/nmontiel42/CPP](https://github.com/nmontiel42/CPP/tree/main/CPP00">CPP00</li></a>
+      <li><a href="[https://github.com/nmontiel42/CPP](https://github.com/nmontiel42/CPP/tree/main/CPP00)">CPP00</li></a>
       <br>
       
   </ul>
