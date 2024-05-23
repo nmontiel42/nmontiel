@@ -34,9 +34,12 @@
 <a href="https://github.com/nmontiel42/minishell">
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell.webp"/></a>
 <a href="https://github.com/nmontiel42/NetPractice">
-<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/netpractice.webp"/></a>
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/netpractice_bonus_max.webp"/></a>
 <a href="https://github.com/nmontiel42/cub3D">
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cub3d.webp"/></a>
+<a href="https://github.com/nmontiel42/CPP">
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cpp.webp"/></a>
+
 <ul>
   <li><b>42 Projects 💻</b></li>
   <ul>
@@ -67,14 +70,12 @@ little bash. You will learn a lot about processes and file descriptors.</p>
     <li><a href="https://github.com/nmontiel42/NetPractice">NETPRACTICE</li></a>
     <p>NetPractice is a general practical exercise to help you discover networking.</p>
     <li><a href="https://github.com/nmontiel42/cub3D">CUB3D</li></a>
+    <p>This project is inspired by the world-famous eponymous 90's game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you'll have to find your way. </p>
       <br>
     <p><b>LANGUAGE: C++</b></p>
     <li><a href="https://github.com/nmontiel42/CPP">CPP MODULES</li></a>
     <p>This repository includes all the exercises from C++ modules 0-9.</p>
-    <ul>
-      <li><a href="https://github.com/nmontiel42/CPP/CPP00">CPP00</li></a>
-      <br>
-      
+      <p>-CPP00: This first module of C++ is designed to help you understand the specifities of the language when compared to C. Time to dive into Object Oriented Programming! </p>
   </ul>
 </ul>
   <li><b>42 Exams 🎓</b></li>
