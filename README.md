@@ -35,6 +35,8 @@
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell.webp"/></a>
 <a href="https://github.com/nmontiel42/NetPractice">
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/netpractice.webp"/></a>
+<a href="https://github.com/nmontiel42/cub3D">
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cub3d.webp"/></a>
 <ul>
   <li><b>42 Projects 💻</b></li>
   <ul>
@@ -64,9 +66,17 @@ operation of a UNIX mechanism that you already know.</p>
 little bash. You will learn a lot about processes and file descriptors.</p>
     <li><a href="https://github.com/nmontiel42/NetPractice">NETPRACTICE</li></a>
     <p>NetPractice is a general practical exercise to help you discover networking.</p>
+    <li><a href="https://github.com/nmontiel42/cub3D">CUB3D</li></a>
+      <br>
+    <p><b>LANGUAGE: C++</b></p>
+    <li><a href="https://github.com/nmontiel42/CPP">CPP MODULES</li></a>
+    <p>This repository includes all the exercises from C++ modules 0-9.</p>
+    <ul>
+      <li><a href="https://github.com/nmontiel42/CPP">CPP00</li></a>
+      <br>
+      
   </ul>
 </ul>
-<ul>
   <li><b>42 Exams 🎓</b></li>
   <ul>
     <br>
@@ -75,7 +85,6 @@ little bash. You will learn a lot about processes and file descriptors.</p>
     <li><a href="https://github.com/nmontiel42/exam_rank_03">EXAM_RANK_03</li></a>
     <li><a href="https://github.com/nmontiel42/exam_rank_04">EXAM_RANK_04</li></a>
   </ul>
-</ul>
 
 ## Contact me 📥
 <ul>
