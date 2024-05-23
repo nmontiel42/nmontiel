@@ -38,6 +38,8 @@
 <ul>
   <li><b>42 Projects 💻</b></li>
   <ul>
+    <br>
+    <p><b>LANGUAGE: C</b></p>
     <li><a href="https://github.com/nmontiel42/libft">LIBFT</a></li>
     <p>This project consists of programming a library in C.</p>
     <li><a href="https://github.com/nmontiel42/Printf">FT_PRINTF</a></li>
@@ -67,6 +69,8 @@ little bash. You will learn a lot about processes and file descriptors.</p>
 <ul>
   <li><b>42 Exams 🎓</b></li>
   <ul>
+    <br>
+    <p><b>LANGUAGE: C</b></p>
     <li><a href="https://github.com/nmontiel42/exam_rank_02">EXAM_RANK_02</li></a>
     <li><a href="https://github.com/nmontiel42/exam_rank_03">EXAM_RANK_03</li></a>
     <li><a href="https://github.com/nmontiel42/exam_rank_04">EXAM_RANK_04</li></a>
