@@ -75,7 +75,9 @@ little bash. You will learn a lot about processes and file descriptors.</p>
     <p><b>LANGUAGE: C++</b></p>
     <li><a href="https://github.com/nmontiel42/CPP">CPP MODULES</li></a>
     <p>This repository includes all the exercises from C++ modules 0-9.</p>
-      <p>-CPP00: This first module of C++ is designed to help you understand the specifities of the language when compared to C. Time to dive into Object Oriented Programming! </p>
+      <p>-CPP00: Namespaces, classes, member functions, stdio streams,
+initialization lists, static, const, and some other basic
+stuff </p>
   </ul>
 </ul>
   <li><b>42 Exams 🎓</b></li>
