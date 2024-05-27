@@ -77,7 +77,9 @@ little bash. You will learn a lot about processes and file descriptors.</p>
     <p>This repository includes all the exercises from C++ modules 0-9.</p>
       <p>-CPP00: Namespaces, classes, member functions, stdio streams,
 initialization lists, static, const, and some other basic
-stuff </p>
+stuff. </p>
+      <p>-CPP01: Memory allocation, pointers to members,
+references, switch statement.</p>
   </ul>
 </ul>
   <li><b>42 Exams 🎓</b></li>
