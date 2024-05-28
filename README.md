@@ -80,6 +80,8 @@ initialization lists, static, const, and some other basic
 stuff. </p>
       <p>-CPP01: Memory allocation, pointers to members,
 references, switch statement.</p>
+      <p>-CPP02: Ad-hoc polymorphism, operator overloading
+and Orthodox Canonical class form.</p>
   </ul>
 </ul>
   <li><b>42 Exams 🎓</b></li>
