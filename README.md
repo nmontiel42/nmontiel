@@ -82,6 +82,7 @@ stuff. </p>
 references, switch statement.</p>
       <p>-CPP02: Ad-hoc polymorphism, operator overloading
 and Orthodox Canonical class form.</p>
+      <p>-CPP03: Inheritance. </p>
   </ul>
 </ul>
   <li><b>42 Exams 🎓</b></li>
