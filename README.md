@@ -83,7 +83,8 @@ references, switch statement.</p>
       <p>-CPP02: Ad-hoc polymorphism, operator overloading
 and Orthodox Canonical class form.</p>
       <p>-CPP03: Inheritance. </p>
-      <p>-CPP04: Subtype polymorphism, abstract classes, interfaces</p>
+      <p>-CPP04: Subtype polymorphism, abstract classes, interfaces.</p>
+      <p>-CPP05: Repetition and Exceptions.</p>
   </ul>
 </ul>
   <li><b>42 Exams 🎓</b></li>
