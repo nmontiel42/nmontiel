@@ -87,6 +87,7 @@ and Orthodox Canonical class form.</p>
       <p>-CPP05: Repetition and Exceptions.</p>
       <p>-CPP06: C++ casts. </p>
       <p>-CPP07: C++ templates. </p>
+      <p>-CPP08: Templated containers, iterators, algorithms. </p>
   </ul>
 </ul>
   <li><b>42 Exams 🎓</b></li>
