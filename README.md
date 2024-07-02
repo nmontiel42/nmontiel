@@ -8,7 +8,6 @@
 <h4>Hello! I'm Nekane 🤝</h4>
 
 <p>Currently, I am immersed in the world of development in 42 Málaga, where I am mainly learning programming in C and I hope to be able to develop my logical-mathematical skills to be able to apply them in my life as a programmer.</p>
-<p> Although my training is based on C, I have a special interest in HTML, CSS and Java, languages ​​that I would like to be able to learn and enjoy in the near future to be able to give free rein to my creativity</p>
 
 ## Education 📚
 <ul>
