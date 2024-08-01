@@ -37,7 +37,7 @@
 <a href="https://github.com/nmontiel42/cub3D">
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cub3d.webp"/></a>
 <a href="https://github.com/nmontiel42/CPP">
-<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cpp.webp"/></a>
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cpp_bonus.webp"/></a>
 
 <ul>
   <li><b>42 Projects 💻</b></li>
