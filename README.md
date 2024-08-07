@@ -89,7 +89,7 @@ and Orthodox Canonical class form.</p>
       <p>-CPP08: Templated containers, iterators, algorithms. </p>
       <p>-CPP09: STL. </p>
       <br>
-      <p><b>VIRTUAL MACHINES 💻</b></p>
+      <p><b>VIRTUAL MACHINES</b></p>
       <li><a href="https://github.com/nmontiel42/inception">INCEPTION</li></a>
         <p>This document is a System Administration related exercise.</p>
   </ul>
