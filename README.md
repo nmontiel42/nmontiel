@@ -13,6 +13,8 @@
 <ul>
   <li><b>Student at 42 Málaga</b></li>
   <p>April 2023 - Present</p><br/>
+  <li><b>Sololearn: Learn to Code</b> 👩🏻‍💻</li>
+    <a href="https://github.com/nmontiel42/Certificates/tree/main">Certificates</a>
 </ul>
 
 ## 42 Progress 🚀  
