@@ -8,7 +8,17 @@
 
 <h4>Hello! I'm Nekane 🤝</h4>
 
-<p>Currently, I am immersed in the world of development in 42 Málaga, where I am mainly learning programming in C and I hope to be able to develop my logical-mathematical skills to be able to apply them in my life as a programmer.</p>
+<p>Currently, I am immersed in the world of development in 42 Málaga, where I am mainly learning to develop my logical-mathematical skills to be able to apply them in my life as a programmer.</p>
+<p>I'm passionate about front-end development and currently self-learning languages and frameworks to build dynamic and responsive web applications.</p>
+
+## Languages I have worked with 🧠
+
+<img src="https://skillicons.dev/icons?i=c"/> <img src="https://skillicons.dev/icons?i=cpp"/> <img src="https://skillicons.dev/icons?i=html"/> <img src="https://skillicons.dev/icons?i=js"/>   
+ <img src="https://skillicons.dev/icons?i=css"/> <img src="https://skillicons.dev/icons?i=docker"/>
+
+### Learning 👩‍💻
+
+<img src="https://skillicons.dev/icons?i=react"/> 
 
 ## Education 📚
 <ul>
