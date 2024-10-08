@@ -18,7 +18,7 @@
 
 ### Learning 👩‍💻
 
-<img src="https://skillicons.dev/icons?i=react"/> 
+<img src="https://skillicons.dev/icons?i=react"/> <img src="https://skillicons.dev/icons?i=tailwind"/> 
 
 ## Education 📚
 <ul>
