@@ -30,7 +30,7 @@
 
 ## Hackaton 🌐
 <ul>
- <li>NASA Space Apps Challenge 2024</li>
+ <li><a href="https://github.com/nmontiel42/Certificates/blob/main/NASA%20Space%20Apps/NASA%20Space%20Apps%20Challenge.pdf">NASA Space Apps Challenge</a></li>
 </ul>
 
 ## 42 Progress 🚀  
