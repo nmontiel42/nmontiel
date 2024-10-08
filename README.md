@@ -13,12 +13,12 @@
 
 ## Languages I have worked with 🧠
 
-<img src="https://skillicons.dev/icons?i=c"/> <img src="https://skillicons.dev/icons?i=cpp"/> <img src="https://skillicons.dev/icons?i=html"/> <img src="https://skillicons.dev/icons?i=js"/>   
+<img src="https://skillicons.dev/icons?i=c"/> <img src="https://skillicons.dev/icons?i=cpp"/> <img src="https://skillicons.dev/icons?i=html"/>  
  <img src="https://skillicons.dev/icons?i=css"/> <img src="https://skillicons.dev/icons?i=docker"/>
 
 ### Learning 👩‍💻
 
-<img src="https://skillicons.dev/icons?i=react"/> <img src="https://skillicons.dev/icons?i=tailwind"/> 
+<img src="https://skillicons.dev/icons?i=react"/> <img src="https://skillicons.dev/icons?i=tailwind"/> <img src="https://skillicons.dev/icons?i=js"/>   
 
 ## Education 📚
 <ul>
