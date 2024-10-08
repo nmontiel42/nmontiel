@@ -28,7 +28,7 @@
     <a href="https://github.com/nmontiel42/Certificates/tree/main">Certificates</a>
 </ul>
 
-## Hackaton 🌐
+## Hackathons 🌐
 <ul>
  <li><a href="https://github.com/nmontiel42/Certificates/blob/main/NASA%20Space%20Apps/NASA%20Space%20Apps%20Challenge.pdf">NASA Space Apps Challenge</a></li>
 </ul>
