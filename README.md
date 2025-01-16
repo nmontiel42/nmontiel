@@ -23,7 +23,7 @@
 ## Education 📚
 <ul>
   <li><b>Student at 42 Málaga</b></li>
-  <a href="https://github.com/nmontiel42/42-Projects.git">Projects</a>
+  <a href="https://github.com/nmontiel42/42-Projects.git">Projects</a> <br>
   <a href="https://github.com/nmontiel42/42-Exams.git">Exams</a>
   <li><b>Sololearn: Learn to Code</b> 👩🏻‍💻</li>
     <a href="https://github.com/nmontiel42/Certificates/tree/main">Certificates</a>
