@@ -28,7 +28,7 @@
   <li><b>Sololearn: Learn to Code</b> 👩🏻‍💻</li>
     <a href="https://github.com/nmontiel42/Certificates/tree/main">Certificates</a>
   <li><b>FreeCodeCamp</b></li>
-    <a href="https://github.com/nmontiel42/Certificates/tree/main">Certificates</a>
+    <a href="https://github.com/nmontiel42/Certificates/tree/main/FreeCodeCamp">Certificates</a>
 </ul>
 
 ## Hackathons 🌐
