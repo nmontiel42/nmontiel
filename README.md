@@ -23,8 +23,13 @@
 ## Education 📚
 <ul>
   <li><b>Student at 42 Málaga</b></li>
-  <p>April 2023 - Present</p><br/>
+  <p>Progress: 
+   <br> 
+   Exams:
+  </p>
   <li><b>Sololearn: Learn to Code</b> 👩🏻‍💻</li>
+    <a href="https://github.com/nmontiel42/Certificates/tree/main">Certificates</a>
+  <li><b>FreeCodeCamp</b></li>
     <a href="https://github.com/nmontiel42/Certificates/tree/main">Certificates</a>
 </ul>
 
@@ -58,6 +63,8 @@
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cpp_bonus.webp"/></a>
 <a href="https://github.com/nmontiel42/inception">
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/inception.webp"/></a>
+<a href="https://github.com/nmontiel42/ft_irc">
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_irc.webp"/></a>
 
 <ul>
   <li><b>42 Projects 💻</b></li>
