@@ -36,18 +36,6 @@
  <li><a href="https://github.com/nmontiel42/Certificates/blob/main/NASA%20Space%20Apps/NASA%20Space%20Apps%20Challenge.pdf">NASA Space Apps Challenge</a></li>
 </ul>
 
-  <li><b>42 Exams 🎓</b></li>
-  <ul>
-    <br>
-    <p><b>LANGUAGE: C</b></p>
-    <li><a href="https://github.com/nmontiel42/exam_rank_02">EXAM_RANK_02</li></a>
-    <li><a href="https://github.com/nmontiel42/exam_rank_03">EXAM_RANK_03</li></a>
-    <li><a href="https://github.com/nmontiel42/exam_rank_04">EXAM_RANK_04</li></a>
-    <br>
-    <p><b>LANGUAGE: C++</b></p>
-    <li><a href="https://github.com/nmontiel42/exam_rank_05">EXAM_RANK_05</li></a>
-  </ul>
-
 ## Contact me 📥
 <ul>
   <li>Email:<a href="mailto:montielarce9@gmail.com" target="_blank"> montielarce9@gmail.com</a></li>
